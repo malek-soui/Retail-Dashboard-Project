@@ -1,0 +1,26 @@
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# macOS files
+.DS_Store
+
+# Python environments and cache
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
